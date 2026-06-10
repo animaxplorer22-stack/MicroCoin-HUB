@@ -1,18 +1,6 @@
 #!/usr/bin/env python3
-"""
-MICROCOIN NODE - COMPLETE MAINNET VERSION
-NO SHORTCUTS - REAL CRYPTOGRAPHY, MULTI-NODE SYNC, DEX INTEGRATION
 
-Features:
-- Real ECDSA secp256k1 signatures (Bitcoin standard)
-- Challenge-response authentication
-- Multi-node P2P sync (gossip protocol, block broadcasting)
-- DEX integration (Uniswap/PancakeSwap)
-- PoMA + PoS consensus
-- 50 billion hard cap with 4 million block halving
-- Level system (100 MC per level)
-- Reward distribution: 75% validators / 8% nodes / 7% uptime / 10% LP
-"""
+
 
 import asyncio
 import json
